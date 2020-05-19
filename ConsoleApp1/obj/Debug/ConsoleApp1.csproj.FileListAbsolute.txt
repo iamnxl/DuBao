@@ -9,3 +9,13 @@ C:\Users\damyn\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\damyn\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
 C:\Users\damyn\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\MathNet.Numerics.dll
 C:\Users\damyn\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\MathNet.Numerics.xml
+C:\Users\damyn\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\damyn\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\damyn\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.Permissions.dll
+C:\Users\damyn\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\damyn\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\damyn\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\damyn\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.Permissions.xml
+C:\Users\damyn\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\damyn\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Topshelf.dll
+C:\Users\damyn\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Topshelf.xml
